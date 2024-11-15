@@ -1,0 +1,52 @@
+#+TITLE: Basics of Physiology
+
+* EYE
+# Pupillary light reflex. Optic properties of the eye: reflective surfaces, reduced eye, accommodation. Aqueous humour. Functions of the pigment epithelium: light reflection, removal of photoreceptor discs, the retinoid cycle. Phototransduction and adaptation to light/dark. Sensitivity, velocity and acuity of rods and cones systems. Visual pigments for colour vision. The receptive field of on-centre and off-centre ganglion cells, detection of luminosity contrast, the effect of background illumination.
+
+
+** Pupillary light reflex
+*** miosis & mydriasis
+    - related to symphatatic & parasymphatatic
+*** Reflex pathway; retina > pretectum > Edinger-Westphal nucleus > ciliary ganglion > pupillary constrictor muscles
+    - direct & consensual response
+
+
+** Optic properties of the eye
+*** reflective surfaces
+    - travel of light from source to retina
+*** reduced eye
+    - average of refractory index simplifies to single lens
+*** accommodation
+    - change of refractive power makes the lens focus
+**** accommodation reflex
+     - contraction of the ciliary muscle
+     - suspensory ligaments' tension adjust curvature of lens
+**** accommodation range
+     - elasticity of fibers changes with age & accommodation range on graph decreases
+     - 50 cm are 2 diopters
+**** refractive errors
+     - emmetropia
+     - myopia
+     - hyperopia
+*** Aqueous humor
+    - continuously cycled & secreted
+    - pressure due to aqueous humor is imp. for correct curve
+    - pressure = secretion - reabsorption, delicate balance
+**** Canal of Schlemm
+     - with veins reabsorption takes place
+*** Retina
+    - w/o instr. seen black, ophthalmoscope is needed, bcs entering light into eye absorbed
+    - fundus
+**** Optic disk
+     - aka /papilla/, optic nerve w retinal blood vessels, aka /blind spot/
+
+**** fovea
+
+
+** Phototransduction
+*** Embriogenesis of human eye
+*** Structure of retina
+    - photoreceptors are the last layer, even carrying nerves exposed to light
+*** Vertical & Horizontal pathway
+*** Pigment Epithelium
+    - captures light as pigments are black
